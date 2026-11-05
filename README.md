@@ -22,7 +22,7 @@ I created this repository as part of my JavaScript learning journey using [FreeC
 
 - **Language:** JavaScript
 - **Learning Platform:** FreeCodeCamp
-- **AI Assistance:** Gemini and Argon AI
+- **AI Assistance:** Gemini-Argon AI
 - **Code Editor:** Visual Studio Code
 - **Version Control:** Git and GitHub
 
